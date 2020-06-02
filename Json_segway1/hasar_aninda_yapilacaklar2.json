@@ -1,0 +1,55 @@
+{
+    "hasarlar": [
+        {
+            "type": "Kasko Hasarı",
+            "damage_types": [
+                {
+                    "damage_type": "Çarpma-Çarpışma",
+                    "description": "Sompo Japan Sigorta ailesi olarak geçmşi olsun dileklerimizi sunarız.İki veya daha fazla aracın karıştığı trafik kazalarında yapılması gerekenleri aşağıda görebilirsiniz."
+                },
+                {
+                    "damage_type": "Araç Çalınması",
+                    "description": "Sompo Japan Sigorta ailesi olarak geçmiş olsun dileklerimizi sunarız."
+                },
+                
+                {
+                    "damage_type": "Hırsızlık Hasarları",
+                    "description": "Sompo Japan Sigorta ailesi olarak geçmiş olsun dileklerimizi sunarız.Bu sayfada, aracınızda meydana gelen kısmi çalınma hadiselerine (Radyo-Teyp, Stepne vb.) ilişkin bilgi alabilirsiniz."
+                },
+                {
+                    "damage_type": "Cam Kırılması",
+                    "description": "Sompo Japan Sigorta ailesi olarak geçmiş olsun dileklerimizi sunarız."
+                },
+                {
+                    "damage_type": "Diğer",
+                    "description": "Diğer Açıklama"
+                }]
+        },
+        {
+            "type": "Konut Hasarı",
+            "damage_types": [
+                {
+                    "damage_type": "Yangın",
+                    "description": ""
+                },
+                {
+                    "damage_type": "Dahili Su",
+                    "description": ""
+                },
+                {
+                    "damage_type": "Hırsızlık",
+                    "description": "Hırsızlık Açıklama"
+                },
+                {
+                    "damage_type": "Fırtına",
+                    "description": "Fırtına Açıklama"
+                },
+                {
+                    "damage_type": "Diğer",
+                    "description": "Diğer Açıklama"
+                }
+            ]
+        }
+    ]
+}
+
